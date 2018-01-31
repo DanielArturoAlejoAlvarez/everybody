@@ -1,8 +1,8 @@
-# Forever
+# Everybody
 
 ## Description
 
-Forever is an application interface created in Ruby for the implementation of a web service. You can use a UI such as Postman or RestEasy to feed a Database. This Api is exclusive to develop a Blog.
+Everybody is an application interface created in Ruby for the implementation of a web service. You can use a UI such as Postman or RestEasy to feed a Database. This Api is exclusive to develop a Blog.
 
 ## Installation
 
@@ -10,7 +10,7 @@ Forever is an application interface created in Ruby for the implementation of a 
 ### Usage
 
 ```html
-$ git clone https://github.com/DanielArturoAlejoAlvarez/forever.git [NAME APP]
+$ git clone https://github.com/DanielArturoAlejoAlvarez/everybody.git [NAME APP]
 ```
 Follow the following steps and you're good to go! Important:
 
@@ -94,7 +94,7 @@ namespace 'api' do
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/DanielArturoAlejoAlvarez/forever. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/DanielArturoAlejoAlvarez/everybody. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## License
